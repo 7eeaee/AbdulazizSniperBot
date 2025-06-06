@@ -1,6 +1,6 @@
 
 services:
-  - type: web
+  - type: worker
     name: abdulaziz-sniperbot
     env: python
     plan: free
